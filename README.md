@@ -1,10 +1,14 @@
 # Man_don-t_get_angry_events_detection
 
 #  Gameplay State Recognition System  
-### *Man, Don’t Get Angry (Chińczyk)*  
+## *Man, Don’t Get Angry (Chińczyk)*  
 
-the results are available in form of videos under this link:
+### the results are available in form of videos under this link:
 https://photos.app.goo.gl/2Qp9ZivMsiX7QdXk9   
+
+
+<img width="1239" height="733" alt="image" src="https://github.com/user-attachments/assets/f0bc6759-86aa-4f91-b029-37783b24bf71" />
+
 
 ##  1. Introduction
 This project focuses on automatic recognition of gameplay states in the board game Man, Don’t Get Angry (Chińczyk) using classical computer vision techniques.
