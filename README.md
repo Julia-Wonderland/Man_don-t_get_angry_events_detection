@@ -92,7 +92,7 @@ All data was recorded by the authors and divided into three difficulty levels:
 - Home  
 
 
-## 🎲 7. Dice Detection & Recognition
+## 7. Dice Detection & Recognition
 - White color segmentation outside board
 - Contour filtering + rotated bounding box
 - ROI extraction
